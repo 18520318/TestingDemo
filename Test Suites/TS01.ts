@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6df53a89-4964-4cc8-b121-4d8f05b7bc66</testSuiteGuid>
+   <testCaseLink>
+      <guid>dc39f102-0aed-4d09-ac24-9f8528216843</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC01_QLKS_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e0c572b9-10ef-4847-a725-63998fee4e15</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC01_LoginData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e0c572b9-10ef-4847-a725-63998fee4e15</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>2bf36571-8aa7-49de-99f0-0806cbb6b285</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0c572b9-10ef-4847-a725-63998fee4e15</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>c46ad504-86a4-4152-841b-8fb2b84fb3c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

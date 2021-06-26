@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Login</description>
+   <name>TC01_QLKS_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33469162-39ed-4fbf-abe8-4142d6ebb7cb</testCaseGuid>
+   <variable>
+      <defaultValue>'username'</defaultValue>
+      <description></description>
+      <id>2bf36571-8aa7-49de-99f0-0806cbb6b285</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>c46ad504-86a4-4152-841b-8fb2b84fb3c1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
